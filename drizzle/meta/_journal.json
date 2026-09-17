@@ -1,0 +1,41 @@
+{
+  "version": "7",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1789030596031,
+      "tag": "0000_lovely_turbo",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1789030717557,
+      "tag": "0001_purple_triathlon",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1789031824413,
+      "tag": "0002_minor_nightcrawler",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "5",
+      "when": 1789033473129,
+      "tag": "0003_thankful_the_fallen",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "5",
+      "when": 1789034774251,
+      "tag": "0004_wooden_snowbird",
+      "breakpoints": true
+    }
+  ]
+}
